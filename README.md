@@ -12,8 +12,6 @@
   * [Tech Stack](#computer-tech-stack)
   * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
   * [Run Locally](#running_woman-run-locally)
 - [Contact](#wave-contact)
   
@@ -57,35 +55,19 @@
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
-
-This project uses NPM as package manager
-
-<!-- Installation -->
-### :gear: Installation
-
-Install github-finder with npm
-
-```bash
-  npm install github-finder
-  cd github-finder
-```
-
-
 <!-- Run Locally -->
 ### :running_woman: Run Locally
 
 Clone the project
 
 ```bash
- https://github.com/vsibley/github-finder.git
+ https://github.com/vsibley/github-finder-main.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd github-finder
+  cd github-finder-main
 ```
 
 Install dependencies
