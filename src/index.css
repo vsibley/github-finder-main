@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-card-image .card.image-full:before{
+border-radius: 0.5rem;
+opacity: 0.65;
+}
+
+* {
+    font-family: 'Mukta', sans-serif;
+}
