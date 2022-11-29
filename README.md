@@ -82,6 +82,8 @@ Start the server
   npm start
 ```
 
+To view the app go to http://localhost:3000/
+
 <!-- Contact -->
 ## :wave: Contact
 
