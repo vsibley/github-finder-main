@@ -8,12 +8,13 @@
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  * [Tech Stack](#computer-tech-stack)
-  * [Features](#dart-features)
-- [Getting Started](#toolbox-getting-started)
-  * [Run Locally](#running_woman-run-locally)
-- [Contact](#wave-contact)
+- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:star2: About the Project](#star2-about-the-project)
+    - [:computer: Tech Stack](#computer-tech-stack)
+    - [:dart: Features](#dart-features)
+  - [:toolbox: Getting Started](#toolbox-getting-started)
+    - [:running\_woman: Run Locally](#running_woman-run-locally)
+  - [:wave: Contact](#wave-contact)
   
 
 <!-- About -->
@@ -81,6 +82,8 @@ Start the server
 ```bash
   npm start
 ```
+
+To view the app go to http://localhost:3000/
 
 <!-- Contact -->
 ## :wave: Contact
